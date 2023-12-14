@@ -6,7 +6,7 @@ services:
     image: postgres
     restart: always
     environment:
-      POSTGRES_PASSWORD: mypassword
-      POSTGRES_DB: mydatabase
+      POSTGRES_PASSWORD: Beauty6969
+      POSTGRES_DB: db_book
     ports:
       - "5432:5432"
